@@ -27,7 +27,7 @@ function App() {
 
         {/* Main Content */}
         <div className="relative z-20 flex flex-col items-center min-h-screen">
-        <div style={{borderTop:'1px solid white'}}>
+        <div style={{borderBottom:'1px solid white'}}>
 
           <header className="text-center mb-10 pt-7 sm:pt-0 lg:pt-1">
             <h1 className="text-4xl font-bold text-blue-600 text-left pl-4">
